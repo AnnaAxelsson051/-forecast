@@ -29,7 +29,7 @@ This is a web service that fetches data with REST from multiple open weather for
 - CSS
 - Json
 
--->
+
 
 ---
 
@@ -37,3 +37,4 @@ This is a web service that fetches data with REST from multiple open weather for
 
 ![User Interface](user-interface2.png)
 
+-->
